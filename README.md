@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a api example that contain following:
 
-Things you may want to cover:
+* Create models
 
-* Ruby version
+* Searching service with cache
 
-* System dependencies
+* Authentication with token
 
-* Configuration
+* Active Job
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* send email
